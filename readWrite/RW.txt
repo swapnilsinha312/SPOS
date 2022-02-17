@@ -1,0 +1,3 @@
+Changed Sample at write thread 5 
+
+Original text: 'Sample'

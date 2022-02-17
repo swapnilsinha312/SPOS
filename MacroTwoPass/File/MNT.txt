@@ -1,0 +1,3 @@
+0	INCR
+5	ADDS
+11	SUBS
